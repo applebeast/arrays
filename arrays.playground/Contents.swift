@@ -10,6 +10,3 @@ var appleproductsiwillown: [String]
 appleproductsiwillown = ["macbook", "imac", "ipad", "iphone", "ipod touch", "ipod shuffle", "ipod nano"]
 
 var countriesthatsuck = ["china", "north korea", "honduras"]
-var top3colors = [String](count: 3, repeatedValue: "boring brown")
-
-
